@@ -2,6 +2,10 @@
 ## A simple todo list in swift
 
 
-![GIF](test.mov)
+<video width="400" height="700" controls>
+  <source src="test.mov" type="video/mov">
+</video>
+
+<!-- ![GIF](test.mov) -->
 # test
 fromage
