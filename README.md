@@ -1,10 +1,9 @@
 # Todo_list_swift
 ## A simple todo list in swift
 
-
-<!-- <video width="400" height="700" controls>
-  <source src="test.mov" type="video/mov">
-</video> -->
+<video width="400" height="700" controls>
+  <source src="test2.mov" type="video/mov">
+</video>
 
 ![](test2.mov)
 # test
